@@ -4,7 +4,9 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.8.3",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "react-router-dom": "^6.6.1",
+    "sass": "^1.57.1"
   },
   "scripts": {
     "start": "node server.js",
@@ -13,7 +15,6 @@
   "name": "cheese_api",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
